@@ -18,6 +18,8 @@ I'm a second-year student at UBC, studying computer science, math, and business.
 ---
 **Tech Stack**
 Languages: Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
-Frameworks and libraries: Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, JUnit. 
+
+**Frameworks and libraries:**
+Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, JUnit. 
 
 
