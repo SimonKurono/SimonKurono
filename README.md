@@ -1,5 +1,4 @@
 ## Hi, I'm Simon👋
----
 <!--
 **SimonKurono/SimonKurono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +19,5 @@ I'm a second-year student at UBC, studying computer science, math, and business.
 **Tech Stack**
 Languages: Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
 Frameworks and libraries: Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, JUnit. 
+
+
