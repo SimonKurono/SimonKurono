@@ -22,7 +22,6 @@ Languages: Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
 **Frameworks and libraries:**
 Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, JUnit. 
 
----
 **Contact me:**
 simonkurono@gmail.com
 
