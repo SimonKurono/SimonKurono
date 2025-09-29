@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Simon👋
+---
 <!--
 **SimonKurono/SimonKurono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a second-year student at UBC, studying computer science, math, and business. I am currently working as a data delivery engineer at Turing, where I curate and manage training datasets for Google DeepMind. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models to assess risk, volatility, and returns of securities. 
+
+---
+**Tech Stack**
+Languages: Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
+Frameworks and libraries: Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, JUnit. 
