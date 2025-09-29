@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 I'm a second-year student at UBC, studying computer science, math, and business. I am currently working as a data delivery engineer at Turing, where I curate and manage training datasets for Google DeepMind. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models to assess risk, volatility, and returns of securities. 
 
 ---
-**Tech Stack**
+**Tech Stack:**
 Languages: Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
 
 **Frameworks and libraries:**
 Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, JUnit. 
+
+---
+**Contact me:**
+simonkurono@gmail.com
 
 
