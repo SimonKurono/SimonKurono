@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 I'm a second-year student at UBC, studying computer science, math, and business. I am currently working as a data delivery engineer at Turing, where I curate and manage the delivery of training datasets for Google DeepMind. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models to assess risk, volatility, and returns of securities. 
 
+Eventually, I hope to build a scalable AI education platform for high school and university students by creating simulated real-world experiences for hands-on learning. 
+
 ---
 **Tech Stack:**
 Languages: Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
