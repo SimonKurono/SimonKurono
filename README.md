@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a second-year student at UBC, studying **Business and Computer Science (BUCS)** with a minor in **math**. I am currently working as a data delivery engineer at Turing, where I curate and manage the delivery of training datasets for Google DeepMind. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models to assess risk, volatility, and returns of securities. 
+I'm a second-year student at UBC, studying **Business and Computer Science (BUCS)** with a minor in **Mathematics**. I am currently working as a data delivery engineer at Turing, where I curate and manage the delivery of training datasets for Google DeepMind. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models to assess risk, volatility, and returns of securities. 
 
 Eventually, I hope to build a scalable AI education platform for high school and university students by creating simulated real-world experiences for hands-on learning. 
 
