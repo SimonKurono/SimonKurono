@@ -20,7 +20,7 @@ Eventually, I hope to build a scalable AI education platform for high school and
 ---
 ### Tech Stack:
 
-**Languages:** Java, Python, C++, JavaScript, PostgreSQL, HTML/CSS
+**Languages:** Java, Python, C++, JavaScript, SQL, HTML/CSS
 
 **Frameworks and libraries:**
 Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, Swing, JUnit. 
