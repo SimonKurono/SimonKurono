@@ -23,7 +23,7 @@ Eventually, I hope to build a scalable AI education platform for high school and
 **Languages:** Java, Python, C++, JavaScript, SQL, HTML/CSS
 
 **Frameworks and libraries:**
-Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, Swing, JUnit. 
+Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, React, Swing, JUnit, FireBase
 
 **Contact me:**
 simonkurono@gmail.com
