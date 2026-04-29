@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a second-year student at UBC, studying **Business and Computer Science (BUCS)** with a minor in **Mathematics**. I'm interested in the intersection of finance and computer science, particularly in HFT (low-latency systems), algorithmic trading, and building predictive machine learning models and agent-based systems to analyze financial data and extract signals from unstructured information.  
+I'm a second-year Business and Computer Science (BUCS) student at UBC with a minor in Mathematics, interested in quantitative finance and systematic trading. I'm currently exploring and learning about agent-based applications to trading and research, market microstructure, and extracting signals from unstructured data.
 
 In the future, I hope to build a scalable AI education platform for high school and university students by creating simulated real-world experiences for hands-on learning. 
 
