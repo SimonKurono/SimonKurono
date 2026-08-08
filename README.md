@@ -25,7 +25,7 @@ In the future, I hope to build a scalable AI education platform for high school 
 **Frameworks and libraries:**
 PyTorch, Scikit-learn, Pandas, Numpy, Matplotlib, Django, Streamlit, Scipy
 
-**Tools**
+**Tools:**
 Firebase, GCP, AWS, nGrok, HuggingFace, Cursor, Claude Code, Google ADK
 
 **Contact me:**
